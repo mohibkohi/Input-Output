@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520219435 source:c:\users\mohib\onedrive\documents\output\input\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
